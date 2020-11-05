@@ -22,9 +22,9 @@ var languages = [{
     level: 'Intermediate'
 }];
 
-let certified = ['Scrum Foundation Professional Certificate (SFPC) - (Português)'];
+let certified = ['Scrum Foundation Professional Certificate (SFPC) - (Português)', 'Kanban Foundation KIRF (Português)'];
 
-let devSkills = ['Node.js', 'Git', 'Puppeteer', 'Playwright', 'Appium', 'PM2', 'SQL'];
+let devSkills = ['Node.js', 'Git', 'Puppeteer', 'Playwright', 'Appium', 'PM2', 'SQL', 'HTML', 'CSS'];
 let otherSkills = ['Figma', 'Adobe XD', 'AnyDesk', 'Oracle VM VirtualBox', 'Trello', 'CNAB', 'JSON'];
 let softSkills = ['Empathy', 'Communicative', 'Proactive', 'DesireToLearn', 'Humorous', 'Pair programming', 'Team work'];
 let loves = ['Pizza', 'Cats', 'Travel', 'Code', 'Coffee'];
@@ -32,7 +32,7 @@ let loves = ['Pizza', 'Cats', 'Travel', 'Code', 'Coffee'];
 let courses = [];
 let year = new Date().getFullYear();
 
-if (year > 2015) courses.push('high school - Complete');
+if (year > 2015) courses.push('High School - Complete');
 if (year > 2017) courses.push('Computer Technician - Complete');
 if (year > 2019 && year < 2022) courses.push('Information System - In progress');
 if (year >= 2022 && degree == true) courses.splice(2, 1, 'Information System - Complete');
