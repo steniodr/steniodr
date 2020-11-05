@@ -9,6 +9,9 @@ var programmingLanguages = [{
     name: 'Javascript',
     level: 'Intermediate'
 }, {
+    name: 'Node.js',
+    level: 'Beginner'
+}, {
     name: 'C#',
     level: 'Beginner'
 }];
