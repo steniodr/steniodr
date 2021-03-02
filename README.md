@@ -4,6 +4,10 @@
 
 [![Linkedin: Stenio](https://img.shields.io/badge/-Stenio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stenio-dias-rapchan/)](https://www.linkedin.com/in/stenio-dias-rapchan/)
 
+<p><em> :computer: :coffee: Backend Developer Jr </em></p>
+<p><em> :city_sunset: São Paulo - SP </em></p>
+<p><em> :email: steniodr@hotmail.com </em></p>
+
 ```javascript
 var programmingLanguages = [{
     name: 'Javascript',
@@ -45,10 +49,5 @@ console.log(courses);
 let wantToLearnMoreEveryDay = true;
 let openToWork = true;
 
-
 ```
-<p><em> :computer: :coffee: Backend Developer Jr </em></p>
-<p><em> :city_sunset: São Paulo - SP </em></p>
-<p><em> :email: steniodr@hotmail.com </em></p>
-
 ![Stenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=steniodr&show_icons=true&theme=radical)
