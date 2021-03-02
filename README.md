@@ -9,12 +9,13 @@ var programmingLanguages = [{
     name: 'Javascript',
     level: 'Intermediate'
 }, {
-    name: 'Node.js',
-    level: 'Beginner'
-}, {
     name: 'C#',
     level: 'Beginner'
-}];
+}, {
+    name: 'Java',
+    level: 'Beginner'
+}
+];
 
 var languages = [{
     language: 'Portuguese',
@@ -25,10 +26,10 @@ var languages = [{
     level: 'Intermediate'
 }];
 
-let certified = ['Scrum Foundation Professional Certificate (SFPC) - (Português)', 'Kanban Foundation KIRF (Português)'];
+let certified = ['Scrum Foundation Professional Certificate (SFPC) - (Português)', 'Kanban Foundation KIRF (Português)', 'Remote Work and Virtual Collaboration - (Portuguese)', 'Become Remote', 'HTML Web Developer'];
 
-let devSkills = ['Node.js', 'Git', 'Puppeteer', 'Playwright', 'Appium', 'PM2', 'SQL', 'HTML', 'CSS'];
-let otherSkills = ['Figma', 'Adobe XD', 'AnyDesk', 'Oracle VM VirtualBox', 'Trello', 'CNAB', 'JSON'];
+let devSkills = ['Node.js', 'Git', 'Puppeteer', 'Playwright', 'Express', 'Appium', 'PM2', 'MySQL', 'HTML', 'CSS'];
+let otherSkills = ['Figma', 'Adobe XD', 'AnyDesk', 'Oracle VM VirtualBox', 'Trello', 'CNAB', 'JSON', 'JSON Schema'];
 let softSkills = ['Empathy', 'Communicative', 'Proactive', 'DesireToLearn', 'Humorous', 'Pair programming', 'Team work'];
 let loves = ['Pizza', 'Cats', 'Travel', 'Code', 'Coffee'];
 
@@ -48,3 +49,6 @@ let openToWork = true;
 ```
 <p><em> :computer: :coffee: Backend Developer Jr </em></p>
 <p><em> :city_sunset: São Paulo - SP </em></p>
+<p><em> :email: steniodr@hotmail.com </em></p>
+
+![Stenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=steniodr&show_icons=true&theme=radical)
