@@ -1,12 +1,16 @@
 <h1><em> HelloWorld! :earth_americas: (Eu sou || I'm) Stenio D. Rapchan </em></h1>
 
-**Se quiser entrar em contato comigo || If you want to contact me**
+**Se quiser entrar em contato comigo || If you want to contact me** <img align='right' src="https://cdnb.artstation.com/p/assets/images/images/011/676/781/original/pixel-jeff-cafe.gif?1530807813" width="300"> 
 
-[![Linkedin: Stenio](https://img.shields.io/badge/-Stenio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stenio-dias-rapchan/)](https://www.linkedin.com/in/stenio-dias-rapchan/)
+<a href="https://www.linkedin.com/in/stenio-dias-rapchan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:steniodr@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 
 <p><em> :computer: :coffee: Backend Developer Jr </em></p>
 <p><em> :city_sunset: São Paulo - SP </em></p>
-<p><em> :email: steniodr@hotmail.com </em></p>
+
+
+
+
 
 ```javascript
 var programmingLanguages = [{
@@ -28,12 +32,16 @@ var languages = [{
 {
     language: 'English',
     level: 'Intermediate'
+},
+{
+    language: 'Spanish',
+    level: 'Beginner'
 }];
 
-let certified = ['Scrum Foundation Professional Certificate (SFPC) - (Português)', 'Kanban Foundation KIRF (Português)', 'Remote Work and Virtual Collaboration - (Portuguese)', 'Become Remote', 'HTML Web Developer'];
+let certified = ['Scrum Foundation Professional Certificate (SFPC) - (Português)', 'Kanban Foundation KIRF (Português)', 'Remote Work and Virtual Collaboration - (Portuguese)', 'Become Remote', 'HTML Web Developer', 'Pensamento Crítico'];
 
-let devSkills = ['Node.js', 'Git', 'Puppeteer', 'Playwright', 'Express', 'Appium', 'PM2', 'MySQL', 'HTML', 'CSS'];
-let otherSkills = ['Figma', 'Adobe XD', 'AnyDesk', 'Oracle VM VirtualBox', 'Trello', 'CNAB', 'JSON', 'JSON Schema'];
+let devSkills = ['Node.js', 'APIs', 'Puppeteer', 'Playwright', 'Express', 'Git', 'Sequelize', 'Requests', 'PM2', 'MySQL', 'HTML', 'CSS'];
+let otherSkills = ['Figma', 'Adobe XD', 'AnyDesk', 'Oracle VM VirtualBox', 'Insomnia', 'Postman', 'Trello', 'CNAB', 'JSON', 'JSON Schema'];
 let softSkills = ['Empathy', 'Communicative', 'Proactive', 'DesireToLearn', 'Humorous', 'Pair programming', 'Team work'];
 let loves = ['Pizza', 'Cats', 'Travel', 'Code', 'Coffee'];
 
@@ -50,4 +58,8 @@ let wantToLearnMoreEveryDay = true;
 let openToWork = true;
 
 ```
-![Stenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=steniodr&show_icons=true&theme=radical)
+ <div>
+  <a href="https://github.com/steniodr">
+  <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=steniodr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steniodr&layout=compact&langs_count=7&theme=radical"/>
+</div> 
