@@ -60,6 +60,6 @@ let openToWork = true;
 ```
  <div>
   <a href="https://github.com/steniodr">
-  <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=steniodr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steniodr&layout=compact&langs_count=7&theme=radical"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=steniodr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steniodr&layout=compact&langs_count=7&theme=radical"/>
 </div> 
