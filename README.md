@@ -1,14 +1,14 @@
 <h1 align="center"><em> HelloWorld! :earth_americas: </h1>
     
- <h1 align="center">
+ <h1 align="center"> 【﻿Ｓｔｅｎｉｏ　Ｄ．　Ｒａｐｃｈａｎ】</h1>   
+    
+<h1 align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montagu+Slab&color=%231D7617&size=50&center=true&vCenter=true&width=600&height=130&lines=Back-End+Developer;Front-End+Developer;FullStack+Developer)](https://git.io/typing-svg)  
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montagu+Slab&color=%231D7617&size=50&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Stenio+D.+Rapchan;FullStack+Developer)](https://git.io/typing-svg) 
-    
- </h1>
-    
+</h1>
 
-
-**Se quiser entrar em contato comigo || If you want to contact me** <img align='right' src="https://cdnb.artstation.com/p/assets/images/images/011/676/781/original/pixel-jeff-cafe.gif?1530807813" width="300"> 
+<h2> Contact <img align='right' src="https://cdnb.artstation.com/p/assets/images/images/011/676/781/original/pixel-jeff-cafe.gif?1530807813" width="300"></h2>  
 
 <a href="https://www.linkedin.com/in/stenio-dias-rapchan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:steniodr@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
