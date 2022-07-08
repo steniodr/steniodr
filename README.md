@@ -53,7 +53,7 @@ var languages = [{
 
 let certified = ['Scrum Foundation Professional Certificate (SFPC) - (Português)', 'Kanban Foundation KIRF (Português)', 'Remote Work and Virtual Collaboration - (Portuguese)', 'Become Remote', 'HTML Web Developer', 'Pensamento Crítico'];
 
-let devSkills = ['REST/RESTful', 'Graphql', 'APIs', 'Puppeteer', 'Playwright', 'Express', 'Git', 'Sequelize', 'Requests', 'PM2', 'MySQL', 'HTML', 'CSS', 'EJS', 'SQL', 'Pandas', 'mMtplotlib'];
+let devSkills = ['REST/RESTful', 'Graphql', 'APIs', 'Puppeteer', 'Playwright', 'Express', 'Git', 'Sequelize', 'Requests', 'PM2', 'MySQL', 'HTML', 'CSS', 'EJS', 'SQL', 'Pandas', 'Matplotlib'];
 let otherSkills = ['Figma', 'Adobe XD', 'AnyDesk', 'Oracle VM VirtualBox', 'Insomnia', 'Postman', 'Trello', 'CNAB', 'JSON', 'JSON Schema'];
 let softSkills = ['Empathy', 'Communicative', 'Proactive', 'DesireToLearn', 'Humorous', 'Pair programming', 'Team work'];
 let loves = ['Pizza', 'Cats', 'Travel', 'Code', 'Coffee'];
